@@ -12,6 +12,7 @@
 "BUTTON_ACTIONS" = "Ações dos botões";
 "BUTTON_ACTIONS_FOOTER_TEXT" = "O botão IfFound é um evento do Activator, você pode selecioná-lo para ser ativado por qualquer gatilho do Activator, tenha certeza de selecionar o IfFound no gatilho.";
 "BUTTON_TRIGGER" = "Gatilho do botão";
+"CALL_OWNER_BUTTON_SETUP" = "Configuração do botão ligar";
 "CITY" = "Cidade";
 "CONTACT_EMAIL_FOOTER_TEXT" = "Favor adicionar iffound@cpdigitaldarkroom.com à sua whitelist ou à sua caixa de entrada VIP para evitar que seja enviado para a caixa de SPAM.";
 "CONTACT_PICKER_FOOTER_TEXT" = "Se por alguma razão o seletor de contato não deixar você selecionar um contato, digite manualmente na caixa de texto acima.";
@@ -22,6 +23,7 @@
 "DEVICE_OWNER_NAME_FOOTER_TEXT" = "Seu nome";
 "DISABLE_IFFOUND_BUTTON" = "Desativar botão IfFound";
 "DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "Útil se você não quer o botão em sua tela de bloqueio e selecionou um gatilho para a janela IfFound.";
+"EMAIL_BUTTON_SETUP" = "Configuração do botão de e-mail"
 "OWNER_ADDRESS" = "Endereço do proprietário";
 "IFFOUND_STEALTH_EMAIL" = "E-mail invisível IfFound";
 "IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "Ativando o e-mail invisível, um e-mail será enviado com a localização do dispositivo sem que aja qualquer alerta de erro ou sucesso.";
